@@ -41,7 +41,7 @@ Authors: David Mutchler, Dave Fisher, Valerie Galluzzi, Amanda Stouder,
 #
 #          -- Write the names of three METHODs that Circle objects have:
 #               (Hint: Use the circle from the example3 function below with the dot trick to let PyCharm help you. )
-#               It needs the center and radius
+#
 #
 #          -- Write the names of three INSTANCE VARIABLEs that Circle objects have:
 #                WRITE_YOUR_ANSWER_HERE,_REPLACING_THIS
@@ -131,6 +131,7 @@ def example3():
     circle = rg.Circle(center_point, radius)
     circle.fill_color = 'green'
     circle.attach_to(window)
+
 
 
     # ------------------------------------------------------------------
