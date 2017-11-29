@@ -143,7 +143,7 @@ def turtle5():
     deadpool.right(135)
     francis.left(135)
     deadpool.forward(200)
-    francis.forward(200
+    francis.forward(200)
 
 ########################################################################
 #
