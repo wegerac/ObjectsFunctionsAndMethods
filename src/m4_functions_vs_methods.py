@@ -254,11 +254,11 @@ def try_methods_and_functions():
     draw_many_squares(siri,2,100,30)
     #3
     siri.speed = 5
-    siri.pen = rg.Pen("red",5)
+    siri.pen.color = 'red'
     draw_many_squares(siri,10,50,15)
     #4
     siri.speed = 100
-    siri.pen = rg.Pen('red',35)
+    siri.pen.thickness = 35
     draw_many_squares(siri,8,300,60)
     #5
     siri.pen = rg.Pen('black',3)
