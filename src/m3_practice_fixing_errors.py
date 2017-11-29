@@ -6,7 +6,7 @@ Authors: David Mutchler, Dave Fisher, Valerie Galluzzi, Amanda Stouder,
 """  # DONE: 1. PUT YOUR NAME IN THE ABOVE LINE.
 
 ########################################################################
-#  DONE: 2.
+# : 2.
 #   Locate the syntax (notation) errors in this file
 #   by looking for red underlines.
 #
@@ -30,8 +30,7 @@ Authors: David Mutchler, Dave Fisher, Valerie Galluzzi, Amanda Stouder,
 ########################################################################
 
 import rosegraphics as rg
-import math
-import math as m
+import math as ma
 
 
 def main():
